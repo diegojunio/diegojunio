@@ -1,1 +1,3 @@
 # Under construction...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegojunio)](https://github.com/diegojunio/github-readme-stats)
